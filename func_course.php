@@ -1,10 +1,10 @@
 <?php
 
 //用户名、密码、课程号、课序号
-$zjh = $_POST['zjh'];
-$mm = $_POST['mm'];
-$kch = $_POST['kch'];
-$kxh = $_POST['kxh'];
+$zjh = '2015181641025';
+$mm = '970502';
+$kch = '107044010';
+$kxh = '02';
 //echo $zjh.$mm.$kch.$kxh;
 
 //第一次登录获得cookies
